@@ -24,3 +24,7 @@ Full Stack Developer | Web Designer | Tech Enthusiast with 1+ years of experienc
 
 ## Status
 Completed
+
+
+
+<img width="953" height="919" alt="image" src="https://github.com/user-attachments/assets/acf35344-2cfc-4e9a-8e03-faed4269e0aa" />
